@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m looking for help with advanced Python and data science<br>💬 Ask me about Python basics, NumPy, and beginner data science<br>🤝 I’m looking for help with<br>🌱I’m currently learning Python, NumPy, Pandas, and UI/UX design<br>⚡ I enjoy building New Projects and experimenting with new tech.
 
 
 ## 🌐 Socials:
